@@ -64,9 +64,11 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/icaromourao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icaromourao" height="30" width="40" /></a>
+  <a href="https://instagram.com/icaromourao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icaromourao" height="30" width="40" /></a>
+  <a href="mailto:icaro.mourao1@hotmail.com"" target="blank"><img align="center" src="" alt="mailto" height="30" width="40" /></a>
 </p>
 
 
