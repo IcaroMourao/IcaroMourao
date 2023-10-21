@@ -1,4 +1,4 @@
-<img align="right" height="400px" src="https://artbreeder.b-cdn.net/imgs/984604eeba0e4a7e2b386403fd44.jpeg"/>
+
 
 <h1 align="left">Hi 👋, I'm Ícaro Mourão</h1>
 <h3 align="left">A Brazilian Full Stack developer</h3>
@@ -8,6 +8,8 @@
 <p>Welcome to my creative journey! I'm a passionate creator who thrives on turning ideas into digital realities. My portfolio is a canvas of innovative projects, each a testament to my love for design and development. Feel free to explore, be inspired, and discover how we can work together to transform your idea into extraordinary digital experiences. Let's collaborate and bring your projects to life.</p>
 
 ---
+
+<img align="right" height="400px" src="https://artbreeder.b-cdn.net/imgs/984604eeba0e4a7e2b386403fd44.jpeg"/>
 
 <h3 align="left">Languages and tools:</h3>
 
