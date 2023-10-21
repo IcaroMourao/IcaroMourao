@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hi 👋, I'm Ícaro Mourão</h1>
 <h3 align="left">A Brazilian Full Stack developer</h3>
 
@@ -12,7 +10,6 @@
 <img align="right" height="400px" src="https://artbreeder.b-cdn.net/imgs/984604eeba0e4a7e2b386403fd44.jpeg"/>
 
 <h3 align="left">Languages and tools:</h3>
-
 <h4 align="left">Front-end</h4>
 <div>
   <img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript">
@@ -69,8 +66,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/icaromourao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icaromourao" height="30" width="40" /></a>
-<a href="https://instagram.com/icaromourao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icaromourao" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/icaromourao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icaromourao" height="30" width="40" /></a>
 </p>
 
 
