@@ -71,7 +71,7 @@
   <a href="mailto:icaro.mourao1@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/icaromourao/icaromourao/main/mail.png" alt="mailto" width="40" /></a>
 </p>
 
-<h3 align="left"><a href="https://1drv.ms/b/s!AlDOvhgslgjFhoJKhJwRKFZP8RHn8w?e=uBvvgp" target="_blank">Click here to see my CV</a></h3>
+<h3 align="left"><a href="https://1drv.ms/b/s!AlDOvhgslgjFhoQkmXzw90rOeKaReg?e=apOWsi" target="_blank">Click here to see my CV</a></h3>
 
 
 
